@@ -1,4 +1,4 @@
-Hi 👋 My name is Michael Ganesh
+Hi 👋 My name is Michael
 ===============================
 
 * 🌍  I'm based in Groningen, Nederland.
