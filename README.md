@@ -2,7 +2,6 @@ Hi 👋 My name is Michael
 ===============================
 
 * 🌍  I'm based in Groningen, Nederland.
-* ✉️  You can contact me at [michael\_g@live.nl](mailto:michael_g@live.nl)
 
 ### Skills
 
