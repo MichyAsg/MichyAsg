@@ -3,22 +3,14 @@ Hi 👋 I'm Michael!
 ### 🌍 About me
 My name is Michael and I'm a software engineeer from the Netherlands. I'm currently a junior software engineer at  @ [ilionx](https://www.ilionx.com).
 
-### Skills
+### Tech Toolbox
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-</a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" />
-</a>
-</p>
+| Category | Tools & Tech |
+|----------|--------------|
+| **Backend** | C# · .NET · Flask |
+| **Frontend** | Blazor · HTML · CSS · Tailwind |
+| **DevOps** | Docker · GitHub Actions · CI/CD  |
+| **Other** | MySQL 🪄 · LUA|
 
 ### Socials
 
