@@ -1,7 +1,7 @@
-Hi 👋 My name is Michael
+Hi 👋 I'm Michael!
 ===============================
-
-* 🌍  I'm based in Groningen, Nederland.
+### 🌍 About me
+My name is Michael and I;m a software engineeer from the Netherlands. I'm currently a junior software engineer at  @ [ilionx](https://www.ilionx.com).
 
 ### Skills
 
