@@ -10,7 +10,7 @@ My name is Michael and I'm a software engineeer from the Netherlands. I'm curren
 | **Backend** | C# · .NET · Flask |
 | **Frontend** | Blazor · HTML · CSS · Tailwind |
 | **DevOps** | Docker · GitHub Actions · CI/CD  |
-| **Other** | MySQL 🪄 · LUA|
+| **Other** | MySQL · LUA|
 
 ### Socials
 
