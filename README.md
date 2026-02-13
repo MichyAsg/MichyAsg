@@ -1,7 +1,7 @@
 Hi 👋 I'm Michael!
 ===============================
 ### 🌍 About me
-My name is Michael and I'm a software engineeer from the Netherlands. I'm currently a junior software engineer at  @ [ilionx](https://www.ilionx.com).
+I'm a software engineeer from the Netherlands. I'm currently a junior software engineer at [ilionx](https://www.ilionx.com).
 
 ### Tech Toolbox
 
