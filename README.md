@@ -1,7 +1,7 @@
 Hi 👋 I'm Michael!
 ===============================
 ### 🌍 About me
-I'm a software engineeer from the Netherlands. I'm currently a junior software engineer at [ilionx](https://www.ilionx.com).
+I'm a Software Engineer from the Netherlands, currently working as a Junior Software Engineer at ilionx. I'm 27 years old and love building things. From messing around with ideas to building things that matter.
 
 ### Tech Toolbox
 
